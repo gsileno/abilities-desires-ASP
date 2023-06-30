@@ -1,3 +1,4 @@
 # abilities-desires-asp
 
-Instumental reasoning patterns in ASP.
+Instrumental reasoning patterns in ASP.
+
